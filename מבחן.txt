@@ -1,0 +1,3 @@
+﻿?האם המצולע הבא הוא מקבילית;כן;לא;כן;parallelogramq5.png
+|במקבילית הבאה?  a מה גודל זווית;100;parallelogramq6.png
+|במקבילית הבאה?  b מה גודל זווית;80;parallelogramq6.png
